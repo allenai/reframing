@@ -1,0 +1,206 @@
+{
+    "true": [
+        [
+            "blouse."
+        ],
+        [
+            "books."
+        ],
+        [
+            "rod."
+        ],
+        [
+            "kitchen."
+        ],
+        [
+            "shelf."
+        ],
+        [
+            "store."
+        ],
+        [
+            "certificate."
+        ],
+        [
+            "burger."
+        ],
+        [
+            "company."
+        ],
+        [
+            "soil."
+        ],
+        [
+            "headlights."
+        ],
+        [
+            "khaki."
+        ],
+        [
+            "knife."
+        ],
+        [
+            "All-wheel drive."
+        ],
+        [
+            "microwave."
+        ],
+        [
+            "pants."
+        ],
+        [
+            "baseball card set."
+        ],
+        [
+            "vodka."
+        ],
+        [
+            "bread."
+        ],
+        [
+            "toys."
+        ],
+        [
+            "grass."
+        ],
+        [
+            "socks."
+        ],
+        [
+            "love seat."
+        ],
+        [
+            "salad."
+        ],
+        [
+            "bag."
+        ],
+        [
+            "car."
+        ],
+        [
+            "diploma."
+        ],
+        [
+            "car."
+        ],
+        [
+            "steel."
+        ],
+        [
+            "railway."
+        ],
+        [
+            "dryer."
+        ],
+        [
+            "patio."
+        ],
+        [
+            "votes."
+        ],
+        [
+            "blanket."
+        ],
+        [
+            "hair."
+        ],
+        [
+            "stereo."
+        ],
+        [
+            "cleaning."
+        ],
+        [
+            "fever."
+        ],
+        [
+            "pill."
+        ],
+        [
+            "cape cod."
+        ],
+        [
+            "radishes."
+        ],
+        [
+            "English."
+        ],
+        [
+            "rail."
+        ],
+        [
+            "hearing."
+        ],
+        [
+            "chips."
+        ],
+        [
+            "vacation."
+        ],
+        [
+            "forest."
+        ],
+        [
+            "room."
+        ],
+        [
+            "cab."
+        ],
+        [
+            "door."
+        ]
+    ],
+    "prediction": [
+        " blouse.",
+        " toys.",
+        " rod.",
+        " apple.",
+        " bookcase.",
+        " mall.",
+        " certificate.",
+        " burger.",
+        " settlement.",
+        " ground.",
+        " tires.",
+        " khaki.",
+        " surgeon.",
+        " All-wheel",
+        " jar of Nut",
+        " diaper.",
+        " card set.",
+        " cat.",
+        " tortilla.",
+        " baby toy.",
+        " green.",
+        " socks.",
+        " love seat.",
+        " cake.",
+        " purse.",
+        " truck.",
+        " diploma.",
+        " car.",
+        " foundation.",
+        " desk.",
+        " dryer.",
+        " patio.",
+        " policies.",
+        " blanket.",
+        " rope.",
+        " stereo.",
+        " cleaning.",
+        " fever.",
+        " flu.",
+        " cape cod.",
+        " radish.",
+        " verb.",
+        " ride.",
+        " unemployment.",
+        " chips.",
+        " hajj.",
+        " woods.",
+        " game.",
+        " bike. ",
+        " window."
+    ]
+}

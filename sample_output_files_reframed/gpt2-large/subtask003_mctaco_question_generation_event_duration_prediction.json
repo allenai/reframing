@@ -1,0 +1,208 @@
+{
+    "true": [
+        [
+            "How many hours did she sleep?"
+        ],
+        [
+            "How long did she tell the story?"
+        ],
+        [
+            "How long will Schahzenan's army take to reach the city?"
+        ],
+        [
+            "How long was the fight?"
+        ],
+        [
+            "How long did it take for the WHO to find that fact?"
+        ],
+        [
+            "How much time did he spend having dinner?"
+        ],
+        [
+            "How long does it take a fossil to form?"
+        ],
+        [
+            "How many months were in last quarter?"
+        ],
+        [
+            "How long has Sarah dated Michael?"
+        ],
+        [
+            "How long did Einstein befriend the authors?"
+        ],
+        [
+            "How long did it take for the Spanish to reach Jamaica?"
+        ],
+        [
+            "For how long did the 9/11 plotters plan the attack?"
+        ],
+        [
+            "How many days did they take to prepare this report?"
+        ],
+        [
+            "How long is the stock exchange open?"
+        ],
+        [
+            "How long did it take for the coin to establish a new record?"
+        ],
+        [
+            "How long did it take to do the laundry?"
+        ],
+        [
+            "How long did it take for the other states to pass such initiatives?"
+        ],
+        [
+            "For how long did the girl think about turning back?"
+        ],
+        [
+            "How long has Spain been at war?"
+        ],
+        [
+            "How long does Juzo care for Nozomi's son?"
+        ],
+        [
+            "How long did it take for the levee to raise sediments?",
+            "How long did it take for the levee to raise sediments?",
+            "How long did it take for the levee to raise sediments?"
+        ],
+        [
+            "How long did it take for Meridian National Corp. to sell the shares?"
+        ],
+        [
+            "How long did it take to chose the operatives?"
+        ],
+        [
+            "How many years did Taj Jackson play baseball?"
+        ],
+        [
+            "How long was there direct control of the politic operations?"
+        ],
+        [
+            "How long did the game of tag last?"
+        ],
+        [
+            "For how long did American 11 head south?"
+        ],
+        [
+            "How long did Preetam take in search of her watch ?"
+        ],
+        [
+            "How long have the Continents existed?"
+        ],
+        [
+            "How long did the bidding last?"
+        ],
+        [
+            "How long will Seth be imprisoned for?"
+        ],
+        [
+            "How long did it take the shelter to get information?"
+        ],
+        [
+            "How long does a typical hunt take?"
+        ],
+        [
+            "How long did it take families to become powerful enough to do this?"
+        ],
+        [
+            "How long did it take them to come?"
+        ],
+        [
+            "For how long was al Qaeda financing itself?"
+        ],
+        [
+            "How long did he pretend he was his father?"
+        ],
+        [
+            "How long was the group chased by the assassins ?"
+        ],
+        [
+            "How long were they in court?"
+        ],
+        [
+            "How long was the chief justice in standing?"
+        ],
+        [
+            "How long did Tumble like to play outside for?"
+        ],
+        [
+            "How long will they remain at Maple Streets and Main Street?"
+        ],
+        [
+            "How long did the elections take?"
+        ],
+        [
+            "How long do they usually play hide and seek?"
+        ],
+        [
+            "How long did the desperate enterprise take?"
+        ],
+        [
+            "How many days did the fighting last?"
+        ],
+        [
+            "How long do you sit around to regain energy?"
+        ],
+        [
+            "How long was the half eaten cheese sandwich left there?"
+        ],
+        [
+            "How long did it take him to grow his big paws?"
+        ],
+        [
+            "How long  did he make his claim?"
+        ]
+    ],
+    "prediction": [
+        " After she fell asleep she felt a lot better and went to sleep, so she woke up feeling a lot better.\n\nSentence: My girlfriend",
+        " How long did the story take to tell?",
+        " By the time the Army reaches the city, Schahzenan's army has already arrived.\n\nSentence: His parents were born in England",
+        " How long did it take for them to find out Yonggary's Device is a diamond?\n\nSentence: There are 12 people living in the",
+        " How long did he go hungry?\n\nSentence: She is so attractive.\n\nAnswer: She is so beautiful.\n\nSentence",
+        " How long did Max get after dinner before he had to take a bath and go to bed?\n\nSentence: While reading, he got very",
+        " How long took for it to go through our development?\n\nSentence: The first person to live with two women was his wife. Answer:",
+        " At the end of the second quarter, Citadel posted third-quarter net income of $8.6 million, or $9.44 a share,",
+        " Sarah was wearing glasses, but she wasn't.\n\nSentence: After dinner, the museum volunteers had an 'after party' consisting of playing",
+        " He was born in China, so he went to the Embassy to apply for a U.S. Visa.\n\nSentence: In 1836",
+        " How many Arawaks on the island were killed during the Spanish arrival?\n\nSentence: Jack's first experience with the world came a day",
+        " How much did they spend on the plot?\n\nSentence: It was raining for about two hours when the gunmen opened fire.\n\nAnswer",
+        " How long will coal last?\n\nSentence: It was raining when she went to go pick up water, and it turned out to be raining",
+        " How long until a Reuters share rose five pence?\n\nSentence: A student was taken to the hospital after a football game.\n\n",
+        " How long did this amazing coin last?\n\nSentence: It's just a question, he said, just a question.\n\nAnswer:",
+        " How long is it worth to carry everything a human throws away?…\n\nAfter that, you'll have to choose the answer where the question is",
+        " California was first to require smog checks for clean air, pass anti-tobacco initiatives and bike helmets laws?\n\nIncorrect use of",
+        " How long did they go on?\n\nSentence: He was always hungry and tried to look after his younger brother's food.\n\nAnswer",
+        " How often did Portugal go to war?\n\nSentence: Chinese Communist troops invaded French Guiana in 1954\n\nAnswer: How long did it",
+        " How long does Nozomi keep Juzo company?\n\nSentence: A girl from a poor family who wanted to study English and was",
+        " This answer uses adjectives only, don't use pronouns.\n\nSentence: The road is dark, because the sun is setting.\n\n",
+        " How much did it sell them for?\n\nSentence: The number of times Jack played basketball on the court was 9. How long did it",
+        " How long do you think the operation lasted?\n\n\nQA 4-QA: Answering a student's question\n\nThis question does",
+        " How long did Taj Jackson have a real childhood?\n\nSentence: She was born in the USA and went to the University of Michigan School of",
+        " Direct control of the political operations of Algeria, however, was not.\n\nSentence: He was in the U.S. for 4 years",
+        " How many times came Tony and Ally to the table of tag?\n\nSentence: As an extra bonus, this time Tony took the stairs two",
+        " The report of American 11 heading south was the first; Delta 1989 was the second.\n\nSentence: He went to find Thee in his",
+        " How long did you spend searching for your watch?\n\nSentence: Her first memory is her grandmother singing, \"We are going to see Mount",
+        " How old is it a Continents are much older than ocean basins?\n\nSentence: There once was a man with short hands, but",
+        " How long did it take him to submit a bid for the firm?\n\nSentence: When he and his wife went to the bar for a",
+        " How long did he remain in that position after he was locked?\n\nSentence: The FBI tried to kill Jack by putting a bullet that entered",
+        " How long did the Rescue Team take the suspect off from the scene?\n\nSentence: She had always wanted to be in the Air force.",
+        " How long did hunting and gathering culture start in Native America?\n\nSentence:. These two words make a lot of sense together. If you",
+        " How many years did the Kojiro family carve out Japan for the Kojiro family?\n\nSentence: You asked what was one million",
+        " How long did their meeting pass?\n\nSentence: It's a beautiful morning. We see all the lights in the city, They burn and",
+        " How long do you think the CIA had Osama bin Laden in its custody?\n\nSentence: The government said there were no casualties among American troops",
+        " How long did he pretend to be driving the tractor for?\n\nSentence: Now it was day by day, and they were growing fat on",
+        " How long did it take for them to be killed?\n\nSentence: They heard that the leader of the \"Black Panther Party\" had fled",
+        "How much did they pay?\n\nSentence: He wanted to be a real-estate tycoon.\n\nAnswer: How long did he",
+        " How long, how long, what the hell were you all thinking?\n\nSentence: You must believe that our country is \"better\" than",
+        " How long did he stay outside in the garden?\n\nSentence: Tumble used to laugh in the library and then he was embarrassed.\n",
+        " Maple Street, the streets near the corner.\n\nSentence: The person who spoke on the phone said, \"I am really sorry, but",
+        " The Minangkabau custom of freely electing their leaders provided the model for democracies.\n\nSentence: The minibus stopped here at 7",
+        " How long did they go through the forest?\n\nSentence: The water was still warm after sunset.\n\nAnswer: How long did they",
+        " How long did it take to get an opportunity for a loan?",
+        " How long did Alexander survive the battle?\n\nSentence: After Alexander's injury in battles, the Russian army captured many Russian prisoners.\n\n",
+        " How long did you sit around and do nothing?\n\nSentence: It's always nice to hear someone's story, and you wish you knew",
+        " How often did this happen to yourself?\n\nSentence: So, you are aware that you and your kids get along fine. But I am",
+        " How long did it take Jack to realize it?\n\nSentence: Herding dogs didn't exist in China...except he had one.\n",
+        "\n\nSentence: They (Americans) started a war against Muslims.\n\nAnswer:\n\nSentence: I thought I heard something funny"
+    ]
+}
