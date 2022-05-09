@@ -1,11 +1,9 @@
 # Reframing Instructional Prompts to GPTk's Language
 
 ## Description
-This repository contains the code of the paper [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/pdf/2109.07830.pdf). We use 12 tasks from [NATURAL INSTRUCTIONS v1.1](https://instructions.apps.allenai.org/). 
+This repository contains the code of the paper [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/pdf/2109.07830.pdf). We use 12 tasks that belongs to the evaluation split of [NATURAL INSTRUCTIONS v1.1](https://instructions.apps.allenai.org/). 
 
-There are two sets of results. The first set, baseline, is obtained from using raw instructions for these tasks. In the second set, we reframe these instructions using techniques described in the paper. We call these results reframed. 
-
-For both results, we use gpt2, gpt2-xl, gpt2large, gpt3 and gpt3 instruct. Both the results are made in few shot setting with 5 positive examples provided each time.
+There are two sets of results. The first set (baseline) is obtained using raw instructions of these tasks. The second set (reframed) is obtained using the reframed instructions. Techniques to reframe instructions are described in [paper](https://arxiv.org/pdf/2109.07830.pdf). 
 
 ## Raw instructions
 
