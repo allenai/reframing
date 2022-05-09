@@ -3,7 +3,7 @@
 ## subtask002_quoref_answer_generation
 
 ```
-Answer the following Question based on the passage. Your answer must be a single phrase in the passage. You need to identify mutliple references to the same entity such as person, place etc. while answering.  
+Answer the following question based on the passage. Your answer must be a single phrase in the passage. You need to identify mutliple references to the same entity such as person, place etc. while answering.  
 
 <<EXAMPLES>>  
 
@@ -14,12 +14,12 @@ Answer:
 ## subtask003_mctaco_question_generation_event_duration
 
 ```
-Use 'how long' in your question based on the input sentence  
+Use 'how long' or similar phrases in your question based on the input sentence.  
 
 <<EXAMPLES>>  
 
 Sentence: <>  
-Answer:
+Question:
 ```
 
 ## subtask005_mctaco_wrong_answer_generation_event_duration
@@ -37,7 +37,7 @@ Wrong Answer:
 ## subtask008_mctaco_wrong_answer_generation_transient_stationary
 
 ```
-Write a wrong answer to the given question
+Write a wrong answer to the given question.
 
 <<EXAMPLES>>
 
@@ -86,7 +86,7 @@ Question:
 ## subtask039_qasc_find_overlapping_words
 
 ```
-Generate an overlapping word between the given two sentences. When you find the overlapping words, they don't have to match exactly, e.g., "survival" and "survive" are valid overlapping words
+Generate an overlapping word between the given two sentences. When you find the overlapping words, they don't have to match exactly, e.g., "survival" and "survive" are valid overlapping words.
 
 <<EXAMPLES>>
 
@@ -103,7 +103,7 @@ Turn the given fact into a question by a simple rearrangement of words. This typ
 <<EXAMPLES>>  
 
 Fact: <> 
-Answer:
+Question:
 ```
 
 ## subtask044_essential_terms_identifying_essential_words
