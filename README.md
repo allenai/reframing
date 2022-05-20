@@ -9,17 +9,17 @@ There are two sets of results. The first set (baseline) is obtained using raw in
 
 Each prompt for raw instructions is defined using the "Definition", "Emphasis & Caution", "Things to Avoid", "Prompt", "Positive Examples Full Only" fields, in that order, from files in Dataset_Jsons.
 
-The script named ```src/encodeinstructions``` outputs the encoded raw instructions.
+The script named ```src/encoding/encodeinstructions``` outputs the encoded raw instructions.
 
 ## Reframed instructions:
 
-All the reframed instructions are present in the README file in reframed_instructions directory.
+Reframed instructions for all tasks are present inside the ```reframed_instructions``` directory.
 
-The script in src/encodeinstructions_reframed outputs the encoded reframed instructions. 
+The script in ```src/encoding/encodeinstructions_reframed outputs``` the encoded reframed instructions. 
 
 ## Library Installation:
 ```
-python install_dependencies.py
+python src/installation/install_dependencies.py
 
 pip install openai
 pip install transformers
@@ -44,27 +44,18 @@ API_token is needed only in case of gpt3_davinci or gpt3
 
 ## Output Files:
 
-The generated predictions are stored in folder named output_files or output_files_reframed for baseline and reframed experiments respectively.
+Sample generated predictions with reframing are stored in ```output_files_reframed```.
 
-The folder will have sub folders for each model used. 
+The folder has sub folders for each model used. 
 
-For each task, a prediction file will be generated with the following nomenclature:
+For each task, a prediction file has the following nomenclature:
 
-{output_files/output_files_reframed}/{model_name}/{task_name}_prediction.json
+{output_files_reframed}/{model_name}/{task_name}_prediction.json
 
 
 ## Evaluation:
 
-Some tasks have multiple correct outputs. To facilitate evaluation, each ground truth value for an instance is compared against the generated output.
-```
-python evaluate_multi.py --dataset_file {prediction file}
-```
-
-where the prediction file follows the nomenclature described above.
-
-The ground truth value having the best result is used and stored in another file with the following nomenclature:
-
-{output_files/output_files_reframed}/{model_name}/{task_name}_prediction_final.json
+```python src/evaluate/evaluate.py --dataset_file {prediction file}```
 
 ## How to cite
 Feel free to cite us: 
