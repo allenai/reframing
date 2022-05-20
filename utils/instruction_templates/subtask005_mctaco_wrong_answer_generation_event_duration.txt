@@ -1,2 +1,2 @@
 Write a wrong answer to the question asked. Use 'hours, minutes, seconds, years, days, months or weeks' in your answer to the question based on the given sentence.\n\n{0}\n\n{1}\nAnswer:
- Generate an answer in 2 words
+Generate an answer in 2 words
