@@ -1,6 +1,5 @@
 Do minor change to the given question such that its answer changes to another object in the question. Generate the changed question with '_' in it.  
 
-
 <<EXAMPLES>>
 
 Question: <> 
