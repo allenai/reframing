@@ -44,7 +44,7 @@ API_token is needed only in case of gpt3_davinci or gpt3
 
 ## Output Files:
 
-Sample generated predictions with reframing are stored in ```output_files_reframed```.
+Sample generated predictions with reframing are stored in ```output_files_reframed_sample```.
 
 The folder has sub folders for each model used. 
 
