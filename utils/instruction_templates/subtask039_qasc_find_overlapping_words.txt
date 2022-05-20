@@ -1,2 +1,2 @@
 Generate an overlapping word between the given two sentences. When you find the overlapping words, they don't have to match exactly, e.g., \"survival\" and \"survive\" are valid overlapping words.\n\n{0}\n\n{1}\nAnswer:
- Generate one word common to given sentences
+Generate one word common to given sentences
