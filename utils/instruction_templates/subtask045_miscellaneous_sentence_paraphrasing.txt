@@ -1,0 +1,1 @@
+Generate a paraphrase of the given sentence in the input.\n\n{0}\n\n{1}\nAnswer:

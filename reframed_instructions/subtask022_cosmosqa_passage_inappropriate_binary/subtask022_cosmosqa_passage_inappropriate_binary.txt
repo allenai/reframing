@@ -1,0 +1,6 @@
+Read the given context and if the the context is inappropriate (e.g., pornographic) or nonsensical (e.g., cannot determine what happenings the context is about), indicate via "yes". Otherwise, response via "no". 
+
+<<EXAMPLES>>
+
+Context: <> 
+Answer:

@@ -1,0 +1,7 @@
+Write a wrong answer to the question asked. Use 'hours, minutes, seconds, years, days, months or weeks' in your answer to the question based on the given sentence.  
+
+<<EXAMPLES>>  
+
+Sentence: <>  
+Question: <> Generate an answer in 2 words  
+Wrong Answer:

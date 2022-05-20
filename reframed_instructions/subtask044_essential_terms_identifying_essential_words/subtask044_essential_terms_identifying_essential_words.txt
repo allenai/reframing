@@ -1,0 +1,6 @@
+Generate words or phrases of the question that are essential for choosing the correct answer. 
+
+<<EXAMPLES>>  
+
+Question: <> Generate essential words of the given question separated by comma: 
+Essential words:

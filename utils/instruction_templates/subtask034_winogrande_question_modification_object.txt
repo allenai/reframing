@@ -1,0 +1,1 @@
+Do minor change to the given question such that its answer changes to another object in the question\n\n{0}\n\n{1}\nQuestion:

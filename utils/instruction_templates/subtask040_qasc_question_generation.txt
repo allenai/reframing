@@ -1,0 +1,1 @@
+Turn the given fact into a question by a simple rearrangement of words. This typically involves replacing some part of the given fact by a WH word. For example, replacing subject of the provided fact with the word \"what\" can form a valid question.\n\n{0}\n\n{1}\nAnswer:

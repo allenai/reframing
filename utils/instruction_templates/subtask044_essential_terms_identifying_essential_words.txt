@@ -1,0 +1,2 @@
+Generate words or phrases of the question that are essential for choosing the correct answer.\n\n{0}\n\n{1}\nEssential words:
+ Generate essential words of the given question separated by comma

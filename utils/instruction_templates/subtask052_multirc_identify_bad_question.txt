@@ -1,0 +1,2 @@
+You are given a passage and a question. Generate \"yes\" if the question is a bad question (grammatical errors, typing mistakes, etc. or might not make sense in the context of the paragraph (for instance, it might not be related to the content of the paragraph or not be answerable at all)), generate \"no\" otherwise.\n\n{0}\n\n{1}\nAnswer:
+ Generate \"Yes\" if the question is bad, else generate \"No\"

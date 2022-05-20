@@ -1,0 +1,6 @@
+Use 'how long' in your question based on the input sentence  
+
+<<EXAMPLES>>  
+
+Sentence: <>  
+Answer:

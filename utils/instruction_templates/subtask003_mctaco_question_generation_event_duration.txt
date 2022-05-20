@@ -1,0 +1,1 @@
+Use 'how long' in your question based on the input sentence.\n\n{0}\n\n{1}\nAnswer:

@@ -1,0 +1,7 @@
+Fill in the blank. The answer is one of the objects present in the question. 
+
+<<EXAMPLES>>
+
+Context Word: <> 
+Question: <> 
+Answer:

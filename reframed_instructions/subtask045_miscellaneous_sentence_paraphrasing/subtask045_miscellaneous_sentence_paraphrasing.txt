@@ -1,0 +1,8 @@
+Generate a paraphrase of the given sentence in the input.
+
+<<EXAMPLES>>  
+
+Question: <>
+Answer: <>
+Sentence: <>
+Paraphrased Sentence:
