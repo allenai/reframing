@@ -9,13 +9,13 @@ There are two sets of results. The first set (baseline) is obtained using raw in
 
 Each prompt for raw instructions is defined using the "Definition", "Emphasis & Caution", "Things to Avoid", "Prompt", "Positive Examples Full Only" fields, in that order, from files in Dataset_Jsons.
 
-The script named encodeinstructions outputs the encoded raw instructions.
+The script named ```src/encodeinstructions``` outputs the encoded raw instructions.
 
 ## Reframed instructions:
 
 All the reframed instructions are present in the README file in reframed_instructions directory.
 
-The script named encodeinstructions_reframed outputs the encoded reframed instructions. 
+The script in src/encodeinstructions_reframed outputs the encoded reframed instructions. 
 
 ## Library Installation:
 ```
