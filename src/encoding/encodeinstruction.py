@@ -4,7 +4,7 @@ import random
 import math
 def encodeinstruction (task, model_name, instruction_structure =['Definition','Prompt','Things to Avoid','Emphasis & Caution', 'Negative Examples Full Explanations', 'Positive Examples Full Explanations'], number_of_examples=0, number_of_instances= 100):
 
-    with open('Dataset_Jsons/'+task+'.json') as json_file:
+    with open('dataset_Jsons/'+task+'.json') as json_file:
         data = json.load(json_file)
 
     indexlist=list(range(60,len(data['Instances'])-1, math.floor((len(data['Instances'])-60)/number_of_instances)))[:number_of_instances]
