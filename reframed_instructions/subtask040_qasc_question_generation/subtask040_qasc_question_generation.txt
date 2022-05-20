@@ -3,4 +3,4 @@ Turn the given fact into a question by a simple rearrangement of words. This typ
 <<EXAMPLES>>  
 
 Fact: <> 
-Answer:
+Question:
