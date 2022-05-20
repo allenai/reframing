@@ -29,7 +29,7 @@ pip install transformers
 Generate predictions for baseline or reframed instructions:
 
 ```
-python {baseline/reframed}.py --model_name={model_name} --number_of_instances=50 --number_of_examples 5 --API_TOKEN={API_TOKEN}
+python src/generation/{baseline/reframed}.py --model_name={model_name} --number_of_instances=50 --number_of_examples 5 --API_TOKEN={API_TOKEN}
 ```
 
 model_name is one of the following:
