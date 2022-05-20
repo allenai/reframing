@@ -3,5 +3,5 @@ Write a wrong answer to the question asked. Use 'hours, minutes, seconds, years,
 <<EXAMPLES>>  
 
 Sentence: <>  
-Question: <> Generate an answer in 2 words  
+Question: <> Generate an answer in 2 words.  
 Wrong Answer:
