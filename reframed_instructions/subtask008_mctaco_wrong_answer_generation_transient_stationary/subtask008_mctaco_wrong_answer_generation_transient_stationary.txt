@@ -1,4 +1,4 @@
-Write a wrong answer to the given question
+Write a wrong answer to the given question.
 
 <<EXAMPLES>>
 
