@@ -2,5 +2,5 @@ Generate words or phrases of the question that are essential for choosing the co
 
 <<EXAMPLES>>  
 
-Question: <> Generate essential words of the given question separated by comma: 
+Question: <> Generate essential words of the given question separated by comma.
 Essential words:
