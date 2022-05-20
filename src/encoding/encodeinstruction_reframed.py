@@ -8,7 +8,7 @@ def encodeinstruction(task, model_name, instruction_structure =['Positive Exampl
         lines = f.readlines()
     
 
-    with open('Dataset_Jsons/'+task+'.json') as json_file:
+    with open('dataset_Jsons/'+task+'.json') as json_file:
         data = json.load(json_file)
 
     indexlist=list(range(60,len(data['Instances'])-1, math.floor((len(data['Instances'])-60)/number_of_instances)))[:number_of_instances]
