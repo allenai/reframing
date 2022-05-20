@@ -1,6 +1,6 @@
-Use 'how long' in your question based on the input sentence  
+Use 'how long' and similar phrases in your question based on the input sentence.  
 
 <<EXAMPLES>>  
 
 Sentence: <>  
-Answer:
+Question:
