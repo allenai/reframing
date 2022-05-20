@@ -15,7 +15,7 @@ The script named ```src/encoding/encodeinstructions``` outputs the encoded raw i
 
 Reframed instructions for all tasks are present inside the ```reframed_instructions``` directory.
 
-The script in ```src/encoding/encodeinstructions_reframed outputs``` the encoded reframed instructions. 
+The script in ```src/encoding/encodeinstructions_reframed```  outputs the encoded reframed instructions. 
 
 ## Library Installation:
 ```
